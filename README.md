@@ -22,7 +22,7 @@ Backend: Node.js, Express
 Database: MongoDB
 Authentication: JWT
 Real-time Communication: Socket.io
-Interactive Map: Leaflet / Mapbox (or whatever you used)
+Interactive Map: Google Maps
 
 ## Installation & Usage
 ###Clone the repository:
