@@ -25,19 +25,19 @@ Real-time Communication: Socket.io
 Interactive Map: Google Maps
 
 ## Installation & Usage
-###Clone the repository:
+Clone the repository:
 git clone git@github.com:benjamingarciap/rooms.git
-###Install dependencies:
+Install dependencies:
 cd client && npm install
 cd ../server && npm install
-###Create a .env file in the server folder with:
+Create a .env file in the server folder with:
 MONGO_URI=<your_mongo_uri>
 JWT_SECRET=<your_secret>
-###Start backend server:
+Start backend server:
 npm run server
-###Start frontend:
+Start frontend:
 npm start
-###Open http://localhost:3000
+Open http://localhost:3000
  in your browser
 
 ##Architecture & Decisions
