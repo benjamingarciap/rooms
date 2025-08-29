@@ -25,22 +25,22 @@ Real-time Communication: Socket.io
 Interactive Map: Google Maps
 
 ## Installation & Usage
-Clone the repository:
+### Clone the repository:
 git clone git@github.com:benjamingarciap/rooms.git
-Install dependencies:
+### Install dependencies:
 cd client && npm install
 cd ../server && npm install
-Create a .env file in the server folder with:
+### Create a .env file in the server folder with:
 MONGO_URI=<your_mongo_uri>
 JWT_SECRET=<your_secret>
-Start backend server:
+### Start backend server:
 npm run server
-Start frontend:
+### Start frontend:
 npm start
-Open http://localhost:3000
+### Open http://localhost:3000
  in your browser
 
-##Architecture & Decisions
+## Architecture & Decisions
 Chose MERN stack for full-stack demonstration
 Used JWT authentication for secure user login
 Used Socket.io for real-time chat and global stream updates
@@ -48,14 +48,14 @@ Interactive world map allows users to discover streams geographically
 MongoDB for flexible schema to manage users, rooms, and streams
 React component structure designed for scalability and responsive UI
 
-##Challenges & Learnings
+## Challenges & Learnings
 Built a social streaming platform with multi-user, real-time features
 Managed CORS, authentication, and WebRTC peer connections
 Integrated interactive map for global stream discovery
 Handled state management for multiple simultaneous streams
 Learned to integrate frontend and backend for a real-time full-stack application
 
-##Next Steps / Improvements
+## Next Steps / Improvements
 Add recording and replay of streams
 Implement stream recommendations and search
 Integrate Redux or Zustand for advanced state management
