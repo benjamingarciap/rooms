@@ -6,6 +6,15 @@ A MERN stack social media application that allows users to stream live video fro
 
 Rooms is a social media platform where users can create personal streaming rooms, broadcast live video, and watch streams from other users globally. Viewers can interact through chat, follow favorite streamers, and explore streams via an interactive world map. This project highlights real-time streaming, user authentication, and full-stack integration using modern JavaScript technologies.
 
+## Tech Stack
+
+- Frontend: React, JavaScript, CSS
+- Backend: Node.js, Express
+- Database: MongoDB
+- Authentication: JWT
+- Real-time Communication: Socket.io
+- Interactive Map: Google Maps
+
 ## Features
 
 - User registration and login with JWT authentication
@@ -17,15 +26,6 @@ Rooms is a social media platform where users can create personal streaming rooms
 - Responsive UI built with React and CSS
 - Backend with Node.js + Express + MongoDB
 - Basic unit tests for key backend routes and React components
-
-## Tech Stack
-
-- Frontend: React, JavaScript, CSS
-- Backend: Node.js, Express
-- Database: MongoDB
-- Authentication: JWT
-- Real-time Communication: Socket.io
-- Interactive Map: Google Maps
 
 ## Screenshots
 
