@@ -29,11 +29,11 @@ Rooms is a social media platform where users can create personal streaming rooms
 
 ## Screenshots
 
-![Rooms App Screenshot 1](client/public/rooms-1.705798e4.jpg)
-![Rooms App Screenshot 2](client/public/rooms-2.cee9d3c4.jpg)
-![Rooms App Screenshot 3](client/public/rooms-3.7bb65a46.jpg)
-![Rooms App Screenshot 4](client/public/rooms-4.ff0aa641.jpg)
-![Rooms App Screenshot 5](client/public/rooms-5.8c688dbf.jpg)
+<img src="client/public/rooms-1.705798e4.jpg" width="600" alt="Rooms App Screenshot 1">
+<img src="client/public/rooms-2.cee9d3c4.jpg" width="600" alt="Rooms App Screenshot 2">
+<img src="client/public/rooms-3.7bb65a46.jpg" width="600" alt="Rooms App Screenshot 3">
+<img src="client/public/rooms-4.ff0aa641.jpg" width="600" alt="Rooms App Screenshot 4">
+<img src="client/public/rooms-5.8c688dbf.jpg" width="600" alt="Rooms App Screenshot 5">
 
 ## Installation & Usage
 
